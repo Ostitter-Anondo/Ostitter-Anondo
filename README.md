@@ -79,6 +79,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ostitter-Anondo/Ostitter-Anondo/output/snake.svg" alt="Snake animation" />
-
 ###
